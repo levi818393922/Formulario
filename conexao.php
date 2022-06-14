@@ -17,4 +17,8 @@ if(!$conexao){
  echo "Obrigado por utilizar nosso sistema!";
 // Fecha a conexão BD
 mysqli_close($conexao);
+
+/*
+Formas padrão, 
+*/
 ?>
